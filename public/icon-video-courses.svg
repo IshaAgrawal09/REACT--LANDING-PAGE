@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="105px" height="88px" viewBox="0 0 105 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-video-courses</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-video-courses" fill-rule="nonzero">
+            <g id="Group" transform="translate(0.264151, 0.320000)">
+                <rect id="Rectangle-path" fill="#FFF49A" x="17.7216" y="17.74656" width="68.55472" height="36.66832"></rect>
+                <polygon id="Shape" fill="#242D3C" points="46.40012 29.61296 57.6004 36.0802 46.40012 42.54692"></polygon>
+                <path d="M104,56.41428 L15.72168,56.41428 L15.72168,0.07956 L104,0.07956 L104,56.41428 Z M19.72152,52.41496 L99.99964,52.41496 L99.99964,4.0794 L19.72152,4.0794 L19.72152,52.41496 Z" id="Shape" fill="#242D3C"></path>
+                <path d="M15.72168,86.90864 L15.72168,72.08032 L0,72.08032 L0,15.74664 L88.27676,15.74664 L88.27676,72.08032 L30.55,72.08032 L15.72168,86.90864 Z M3.99984,68.081 L19.72152,68.081 L19.72152,77.25224 L28.8938,68.081 L84.2764,68.081 L84.2764,19.74648 L3.99984,19.74648 L3.99984,68.081 Z" id="Shape" fill="#242D3C"></path>
+            </g>
+            <g id="Group" transform="translate(36.144151, 75.200000)" fill="#242D3C">
+                <rect id="Rectangle-path" x="29.54328" y="4.40076" width="38.57672" height="3.99984"></rect>
+                <rect id="Rectangle-path" x="0.25896" y="4.40076" width="14.08368" height="3.99984"></rect>
+                <path d="M18.34352,12.40044 C15.03476,12.40044 12.34272,9.70892 12.34272,6.40068 C12.34272,3.09192 15.03476,0.4004 18.34352,0.4004 C21.65124,0.4004 24.34328,3.09192 24.34328,6.40068 C24.34328,9.70892 21.65176,12.40044 18.34352,12.40044 Z M18.34352,4.40076 C17.24008,4.40076 16.3436,5.29776 16.3436,6.40068 C16.3436,7.50308 17.24008,8.40112 18.34352,8.40112 C19.44592,8.40112 20.34344,7.50308 20.34344,6.40068 C20.34344,5.29776 19.44592,4.40076 18.34352,4.40076 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
